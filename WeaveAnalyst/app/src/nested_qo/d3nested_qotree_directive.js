@@ -1,6 +1,6 @@
 /**
  *this tree is an d3 interactive interface for creating the nested query object. 
- *@shwetapurushe
+ *@spurushe
  */
 
 (function(){
